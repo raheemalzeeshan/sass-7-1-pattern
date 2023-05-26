@@ -1,4 +1,4 @@
-![sass-7-1-pattern](https://github.com/raheemalzeeshan/sass-7-1-pattern/assets/48020482/00c5f182-1535-4228-8291-253f18c532b9)
+![sass-7-1-pattern](https://github.com/raheemalzeeshan/sass-7-1-pattern/assets/48020482/465a4394-cfcf-4e56-8fe8-29179af8c055)
 
 
 Sass 7-1 Pattern
